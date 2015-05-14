@@ -1,0 +1,26 @@
+{
+  "name": "classify",
+  "version": "1.0.0",
+  "description": "Implementation of the naive bayes algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nuterian/classify.git"
+  },
+  "keywords": [
+    "classifier"
+  ],
+  "author": "Jugal Manjeshwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuterian/classify/issues"
+  },
+  "homepage": "https://github.com/nuterian/classify",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "grunt": "^0.4.5"
+  }
+}
